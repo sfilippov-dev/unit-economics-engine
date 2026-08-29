@@ -1,5 +1,7 @@
 # unit-economics-engine
 
+[![tests](https://github.com/sfilippov-dev/unit-economics-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/sfilippov-dev/unit-economics-engine/actions/workflows/ci.yml)
+
 Движок юнит-экономики маркетплейса: P&L по каждому артикулу, безубыточный ДРР
 и решение по рекламной ставке. На входе три CSV, на выходе отчёт одним файлом.
 
